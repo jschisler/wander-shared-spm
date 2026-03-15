@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "WanderShared",
             url: "https://github.com/jschisler/wander-shared-spm/releases/download/0.1.0/WanderShared.xcframework.zip",
-            checksum: "d8c2dbaaa880e60a07401bf4c4d5bd0c12ab296d50cfc8dc92656f4953fcb6d6"
+            checksum: "476bbfe46401cbe8dee26e8fd0e3ef1998c01a27d702b154aa2698d12e184501"
         )
     ]
 )
