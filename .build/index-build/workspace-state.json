@@ -1,7 +1,26 @@
 {
   "object" : {
     "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
 
+          }
+        },
+        "packageRef" : {
+          "identity" : "wander-shared-spm",
+          "kind" : "root",
+          "location" : "/Users/johnschisler/Repos/wander/wander-shared-spm",
+          "name" : "wander-shared-spm"
+        },
+        "path" : "/Users/johnschisler/Repos/wander/wander-shared-spm/.build/index-build/artifacts/wander-shared-spm/WanderShared/WanderShared.xcframework",
+        "source" : {
+          "checksum" : "fedf82748c4cc378059cce9858d9664d91c53c77e396ea6acab27dc278673b37",
+          "type" : "remote",
+          "url" : "https://github.com/jschisler/wander-shared-spm/releases/download/0.1.4/WanderShared.xcframework.zip"
+        },
+        "targetName" : "WanderShared"
+      }
     ],
     "dependencies" : [
 
